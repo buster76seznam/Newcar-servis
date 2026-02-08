@@ -1,7 +1,6 @@
-import React from 'react';
 import { Wrench, ShoppingCart, FileCheck, Users, ShieldCheck, Clock } from 'lucide-react';
 
-const Services: React.FC = () => {
+const Services = () => {
   const services = [
     {
       icon: <Wrench size={40} />,

@@ -1,7 +1,6 @@
-import React from 'react';
 import { ArrowRight } from 'lucide-react';
 
-const Hero: React.FC = () => {
+const Hero = () => {
   return (
     <section id="home" className="hero">
       <div className="hero-overlay"></div>

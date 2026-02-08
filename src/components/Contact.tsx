@@ -1,7 +1,6 @@
-import React from 'react';
 import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
-const Contact: React.FC = () => {
+const Contact = () => {
   return (
     <section id="contact" className="contact-section">
       <div className="container">

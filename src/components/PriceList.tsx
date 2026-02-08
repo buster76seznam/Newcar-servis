@@ -1,6 +1,4 @@
-import React from 'react';
-
-const PriceList: React.FC = () => {
+const PriceList = () => {
   const prices = [
     { name: "Hodinová sazba - mechanické práce", price: "1 200 Kč / hod" },
     { name: "Hodinová sazba - elektrikářské práce", price: "1 400 Kč / hod" },
